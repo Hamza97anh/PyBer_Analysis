@@ -23,19 +23,19 @@ A Python based ride sharing company requests that an analysis be done on a serie
 
 ## Summary 
 
-![Fig1.png](https://github.com/Hamza97anh/PyBer_Analysis/blob/d71b17b87f7f24cad04ae7ce82ddcf39e7c102df/analysis/Fig1.png)
+![Fig1.png](https://github.com/Hamza97anh/PyBer_Analysis/blob/8e0fcf80b175d0422ef6d38c7b8c92b83ed0fff7/analysis/Fig1.png)
 
-![Fig2.png](https://github.com/Hamza97anh/PyBer_Analysis/blob/d71b17b87f7f24cad04ae7ce82ddcf39e7c102df/analysis/Fig2.png)
+![Fig2.png](https://github.com/Hamza97anh/PyBer_Analysis/blob/8e0fcf80b175d0422ef6d38c7b8c92b83ed0fff7/analysis/Fig2.png)
 
-![Fig3.png](https://github.com/Hamza97anh/PyBer_Analysis/blob/d71b17b87f7f24cad04ae7ce82ddcf39e7c102df/analysis/Fig3.png)
+![Fig3.png](https://github.com/Hamza97anh/PyBer_Analysis/blob/8e0fcf80b175d0422ef6d38c7b8c92b83ed0fff7/analysis/Fig3.png)
 
-![Fig4.png](https://github.com/Hamza97anh/PyBer_Analysis/blob/d71b17b87f7f24cad04ae7ce82ddcf39e7c102df/analysis/Fig4.png)
+![Fig4.png](https://github.com/Hamza97anh/PyBer_Analysis/blob/8e0fcf80b175d0422ef6d38c7b8c92b83ed0fff7/analysis/Fig4.png)
 
-![Fig5.png](https://github.com/Hamza97anh/PyBer_Analysis/blob/d71b17b87f7f24cad04ae7ce82ddcf39e7c102df/analysis/Fig5.png)
+![Fig5.png](https://github.com/Hamza97anh/PyBer_Analysis/blob/8e0fcf80b175d0422ef6d38c7b8c92b83ed0fff7/analysis/Fig5.png)
 
-![Fig6.png](https://github.com/Hamza97anh/PyBer_Analysis/blob/d71b17b87f7f24cad04ae7ce82ddcf39e7c102df/analysis/Fig6.png)
+![Fig6.png](https://github.com/Hamza97anh/PyBer_Analysis/blob/8e0fcf80b175d0422ef6d38c7b8c92b83ed0fff7/analysis/Fig6.png)
 
-![Fig7.png](https://github.com/Hamza97anh/PyBer_Analysis/blob/d71b17b87f7f24cad04ae7ce82ddcf39e7c102df/analysis/Fig7.png) 
+![Fig7.png](https://github.com/Hamza97anh/PyBer_Analysis/blob/8e0fcf80b175d0422ef6d38c7b8c92b83ed0fff7/analysis/Fig7.png) 
 
 ## Results
   - For the scatter plot we see that Urban rides are more but have lower fares where as Rural rides have much higher fares per ride, but signifcantly less rides.
@@ -50,4 +50,4 @@ Pyber requested an additional line chart of the total fares by city type from th
 
 The Challenge data chart is comprised of the same types of cities. The data shows that the greatest source of revenue for PyBer is Urban rides. Overall, all three types have similar trends which indicate that the time of year plays a similar impact on ride demand in those three types of areas. The lines do not intersect at any point which means that the distribution of rides remains consistant throughout the year. This would mean that the biggest factor  PyBer has to always consider is which areas have the greatest population density in order to secure more revenue. For the indivicual rider. if they wish to maximse their revenue per ride than working in Rural areas is best, but if they wish to get the greatest volume of work than working in Urban areas is best. Suburban areas do have a simialar relation to Rural areas in the sense that you do work less for more, but with slightly less deadzone times where there is no rides being requested.    
 
-![pyber_challenge.png](https://github.com/Hamza97anh/PyBer_Analysis/blob/d71b17b87f7f24cad04ae7ce82ddcf39e7c102df/analysis/pyber_challenge.png)
+![pyber_challenge.png](https://github.com/Hamza97anh/PyBer_Analysis/blob/8e0fcf80b175d0422ef6d38c7b8c92b83ed0fff7/analysis/pyber_challenge.png)
